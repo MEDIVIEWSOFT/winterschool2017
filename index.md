@@ -39,6 +39,10 @@ Computational Mathematics and Imaging
 * Jong Chul Ye(KAIST)
 * Taeuk Jeong(Yonsei.)
 
+## Schedule
+
+[Download](static/schedule/2017-a3-schedule.pdf)
+
 ## Program
 
 ### Topic : Current issues on X-ray computed tomography imaging
